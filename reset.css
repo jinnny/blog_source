@@ -102,6 +102,10 @@ b {
   text-align: center;
 }
 
+.content-center {
+  text-align: center;
+}
+
 @media screen and (max-width: 999px) {
   *, body {
     font-size: 14px;
